@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gaurab kundu
 - 👀 I’m interested in the field of Data Science, Machine Learning, Artificial Intelligence and more.
-- 🌱 I’m currently learning machine Learning with Python
 - 📫 How to reach me ; connect with me on LinkedIn :linkedin.com/in/gaurab-kundu-020803/
 
 <!---
