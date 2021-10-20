@@ -4,7 +4,7 @@
 
 My recent Certification
 
-[Coursera 7F9LYLSLHYE4.pdf](https://github.com/GaurabKundu1/BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program/files/7382820/Coursera.7F9LYLSLHYE4.pdf)
+https://github.com/GaurabKundu1/BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program/files/7382820/Coursera.7F9LYLSLHYE4.pdf
 
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
