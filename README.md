@@ -28,7 +28,11 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 <a href = "https://www.facebook.com/gaurab.kundu.127"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 </p>
+## 🔥 Streak stats
 
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/GaurabKundu1/github-readme-streak-stats">
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
