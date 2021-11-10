@@ -31,7 +31,8 @@ Along with this I have completed the IBM Data Science Professional Certificate o
     <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="instagram" height="30" width="30" />
 </a>
 <a href="https://www.facebook.com/gaurab.kundu.127">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" alt="facebook" height="30" width="30" />
+    <img align="left" hspace="10" src="![124010](https://user-images.githubusercontent.com/86102231/141140910-e24daba2-478d-49be-b06c-eec6973b3a58.png)
+" alt="facebook" height="30" width="30" />
 </a>
 
 <!---
