@@ -29,8 +29,6 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 
 </p>
 
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{GaurabKundu1}/count.svg)
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
