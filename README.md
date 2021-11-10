@@ -5,7 +5,7 @@ Currently I am pursuing Bachelor of Technology in Computer Science Engineering w
 Along with this I have completed the IBM Data Science Professional Certificate offered by IBM and worked on and completed the Applied Data Science Capstone Project "Winning Space Race Using Data Science" , Where we can predict if the Falcon 9 first stage will land successfully. If we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. I have also completed the Data Science Math Skills course offered by Duke University. I have a keen interest towards Microsoft Azure Services, and I'm planning of to seat for the Microsoft DP900, AZ900 and AI900 Certification Exams.
 
 
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=tokyonight)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=vision-friendly-dark)
 
 <br />
 <p align="left">
