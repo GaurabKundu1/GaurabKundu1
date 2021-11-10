@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurab kundu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
+- # Hi, I’m Gaurab kundu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
 - 👀 I’m interested in the field of Data Science, Machine Learning, Artificial Intelligence and more.
 - 📫 How to reach me ; connect with me on LinkedIn :linkedin.com/in/gaurab-kundu-020803/
 
