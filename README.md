@@ -27,7 +27,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 <a href="https://www.linkedin.com/in/gaurab-kundu-020803">
     <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin" height="30" width="30" />
 </a>
-<a href="https://www.instagram.com/gaurabkyndu7">
+<a href="https://www.instagram.com/gaurabkundu7">
     <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="instagram" height="30" width="30" />
 </a>
 <a href="https://www.facebook.com/gaurab.kundu.127">
