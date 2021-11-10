@@ -32,6 +32,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 <a href="https://www.facebook.com/gaurab.kundu.127">
     <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" alt="facebook" height="30" width="30" />
 </a>
+
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
