@@ -7,6 +7,14 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 
 ![Gaurab Kundu's github stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=tokyonight)
+
+<br />
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
+    &nbsp;
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
+</p>
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
