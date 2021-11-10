@@ -19,21 +19,15 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 
 
 <!-- Social -->
-## Connect with me:
-<br/>
-<a href="https://twitter.com/GaurabKundu6">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="twitter" height="30" width="30" />
-</a>
-<a href="https://www.linkedin.com/in/gaurab-kundu-020803">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin" height="30" width="30" />
-</a>
-<a href="https://www.instagram.com/gaurabkundu7">
-    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="instagram" height="30" width="30" />
-</a>
-<a href="https://www.facebook.com/gaurab.kundu.127">
-    <img align="left" hspace="10" src="![124010](https://user-images.githubusercontent.com/86102231/141140910-e24daba2-478d-49be-b06c-eec6973b3a58.png)
-" alt="facebook" height="30" width="30" />
-</a>
+## 📫 How to reach me:
+<p align='left'>
+  
+<a href = "https://www.linkedin.com/in/gaurab-kundu-020803/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/gaurabkundu7"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/gaurab.kundu.127"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
+</p>
 
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
