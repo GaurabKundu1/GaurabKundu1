@@ -14,6 +14,24 @@ Along with this I have completed the IBM Data Science Professional Certificate o
     &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
 </p>
+
+
+
+<!-- Social -->
+## Connect with me:
+<br/>
+<a href="https://twitter.com/GaurabKundu6">
+    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="twitter" height="30" width="30" />
+</a>
+<a href="https://www.linkedin.com/in/gaurab-kundu-020803">
+    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin" height="30" width="30" />
+</a>
+<a href="https://www.instagram.com/gaurabkyndu7">
+    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="instagram" height="30" width="30" />
+</a>
+<a href="https://www.facebook.com/gaurab.kundu.127">
+    <img align="left" hspace="10" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" alt="facebook" height="30" width="30" />
+</a>
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
