@@ -20,7 +20,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 
 <!-- Social -->
 ## 📫 How to reach me:
-<p align='center'>
+<p align='left'>
   
 <a href = "https://www.linkedin.com/in/gaurab-kundu-020803/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
