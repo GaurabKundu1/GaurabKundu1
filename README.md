@@ -7,7 +7,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=vision-friendly-dark)
 <br />
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
     &nbsp;
     &nbsp;
