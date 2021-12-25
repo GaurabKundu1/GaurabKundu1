@@ -12,7 +12,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
     &nbsp;
 </p>
 
-<p align="left">
+<p align="right">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
     &nbsp;
 </p>
