@@ -8,12 +8,13 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=vision-friendly-dark)
 <br />
 
-
-<p align="center">
+# My GitHub Stats 
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
     &nbsp;
 </p>
 
+# Most Used Languages
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
     &nbsp;
@@ -23,7 +24,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 
 <!-- Social -->
 
-
+# How to Reach Me
 <p align='center'> 
 <a href = "https://www.linkedin.com/in/gaurab-kundu-020803/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
