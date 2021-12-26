@@ -15,7 +15,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 </p>
 
 # Most Used Languages
-<p align="center">
+<p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
     &nbsp;
 </p>
@@ -25,7 +25,7 @@ Along with this I have completed the IBM Data Science Professional Certificate o
 <!-- Social -->
 
 # How to Reach Me
-<p align='center'> 
+<p align='left'> 
 <a href = "https://www.linkedin.com/in/gaurab-kundu-020803/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gaurabkundu7"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
