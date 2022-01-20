@@ -1,3 +1,5 @@
+- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
+
 - # Hi, I’m Gaurab kundu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
 # About Me
 Data Science, Machine Learning, Artificial Intelligence and Cloud Computing Enthusiast With passion for Data Science and Machine Learning and always eager to learn something new, Which has led me to like getting insights from Data and use the Data for much greater uses.
