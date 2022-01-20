@@ -8,7 +8,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 [![dev.to badge](https://img.shields.io/badge/linkedin-gaurab-kundu-020803-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurab-kundu-020803)
 [![glitch badge](https://img.shields.io/badge/facebook-gaurab.kundu.127-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/gaurab.kundu.127)
 [![twitter badge](https://img.shields.io/badge/instagram-@gaurabkundu7-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gaurabkundu7)
-![](https://komarev.com/ghpvc/?username=GaurabKundu1&color=brightgreen&style=flat)
+
 
 # My Current Streak
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=vision-friendly-dark)
