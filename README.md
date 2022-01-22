@@ -7,7 +7,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 
 
 # My Current Streak
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=vision-friendly-dark)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=vision-friendly-light)
 <br />
 
 # My GitHub Stats 
