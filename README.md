@@ -21,7 +21,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1) ![Github stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true)
 
 
 
