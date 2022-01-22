@@ -11,17 +11,15 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 <br />
 
 # My GitHub Stats 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true&theme=vision-friendly-dark" alt="GaurabKundu1" />
-    &nbsp;
-</p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true)
 
 # Most Used Languages
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true)
+
 
 
 
