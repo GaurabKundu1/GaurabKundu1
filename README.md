@@ -1,6 +1,6 @@
 - <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "390"> 
 
-<img src="https://user-images.githubusercontent.com/86102231/152484018-6eb68d01-6418-4819-8f1e-c5bbee886bd7.gif" width="1200" height="300">
+<img src="https://user-images.githubusercontent.com/86102231/152484018-6eb68d01-6418-4819-8f1e-c5bbee886bd7.gif" width="1000" height="300">
 
 
 # Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  
