@@ -1,4 +1,4 @@
-- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
+- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 
 <p align='left'> 
 <img src="https://user-images.githubusercontent.com/86102231/152532340-b2821e25-7c47-45bb-a158-48bffc3e68d3.jpg" width= "200" height= "200"> 
