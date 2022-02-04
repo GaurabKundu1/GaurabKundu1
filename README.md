@@ -1,4 +1,4 @@
-- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "390"> <img src= "https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" width = "300">
+- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "390"> 
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  
@@ -19,7 +19,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 # Most Used Languages
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1) <img src= "https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" width = "300">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1) <img align="right" alt="GIF" width="300" src="https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" />
 
 
 
