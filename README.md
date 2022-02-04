@@ -8,7 +8,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 
 
 # My Current Streak
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=blue) <img align="right" alt="GIF" height="525" width="300" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=vision-friendly-light) <img align="right" alt="GIF" height="525" width="300" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
 
 <br />
 
