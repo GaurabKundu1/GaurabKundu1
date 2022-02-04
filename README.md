@@ -19,7 +19,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 # Most Used Languages
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1) <img align="right" alt="GIF"  height="250"  width="300" src="https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1) <img align="right" alt="GIF"  height="230"  width="300" src="https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" />
 
 
 
