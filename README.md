@@ -1,7 +1,7 @@
 - <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "390"> 
 
 
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  
+# Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  
 
 I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artificial Intelligence || Cloud Computing || Enthusiast and always willing to learn and work across new technologies and domains. 
 
