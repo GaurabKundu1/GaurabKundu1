@@ -1,5 +1,8 @@
 - <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
 
+ <img src="https://user-images.githubusercontent.com/86102231/152532334-c88af487-ff8a-4cd6-adf9-829f94c3eb7e.jpg" width="300"> <img src= "https://user-images.githubusercontent.com/86102231/152532334-c88af487-ff8a-4cd6-adf9-829f94c3eb7e.jpg" width = "300">
+
+
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  
 
 I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artificial Intelligence || Cloud Computing || Enthusiast and always willing to learn and work across new technologies and domains. 
