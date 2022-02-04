@@ -27,7 +27,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 <!-- Social -->
 
 # How to Reach Me
-<p align='center'> 
+<p align='left'> 
 <a href = "https://www.linkedin.com/in/gaurab-kundu-020803/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/gaurabkundu7"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
