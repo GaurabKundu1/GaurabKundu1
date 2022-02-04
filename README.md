@@ -2,6 +2,10 @@
 
  <img src="https://user-images.githubusercontent.com/86102231/152532334-c88af487-ff8a-4cd6-adf9-829f94c3eb7e.jpg"> 
 
+<p align='left'> 
+<img src="https://user-images.githubusercontent.com/86102231/152532340-b2821e25-7c47-45bb-a158-48bffc3e68d3.jpg" width= "200" height= "200"> 
+</p>
+
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  
 
