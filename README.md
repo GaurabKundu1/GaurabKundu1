@@ -18,7 +18,7 @@ I’m Gaurab kundu  Machine Learning || Data Science || Deep Learning || Artific
 # Most Used Languages
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1) <img align="right" alt="GIF" height="100%" width="35%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
 
 
 
