@@ -22,7 +22,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaurabKundu1) <img align="right" alt="GIF"  height="240"  width="300" src="https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" /> 
 
 
-
+[![Gaurab's github activity graph](https://activity-graph.herokuapp.com/graph?username=GaurabKundu1&theme=react-dark)](https://github.com/GaurabKundu1/github-readme-activity-graph)
 
 
 
