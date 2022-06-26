@@ -37,7 +37,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/GaurabKundu1)](https://github.com/GaurabKundu1/github-profile-trophy)
+
 
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
