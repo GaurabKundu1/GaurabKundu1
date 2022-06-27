@@ -19,7 +19,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 # Most Used Languages
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurabKundu1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="240px"/> <img align="right" alt="GIF"  height="240"  width="300" src="https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurabKundu1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="240px"/> <img align="right" alt="GIF"  height="240"  width="300" src="https://user-images.githubusercontent.com/86102231/152539739-c63a7b2b-6171-4c02-8e05-352d90bebf9d.gif" /> <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
