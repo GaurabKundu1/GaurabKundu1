@@ -35,13 +35,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
       alt="javascript" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.rstudio.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-line.svg" alt="rstudio"
-      width="40" height="40" /> </a> </a> <a href="https://https://jupyter.org//en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyternotebook/jupyternotebook-line.svg" alt="jupyternotebook"
-      width="40" height="40" /> </a> </a> </p>
+      alt="pandas" width="40" height="40" /> </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurabKundu1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" width="400px" height="240px"/> <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" />
 
