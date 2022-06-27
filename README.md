@@ -37,9 +37,6 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=GaurabKundu1&theme=juicyfresh&no-bg=true" />
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaurabKundu1&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
