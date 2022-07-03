@@ -16,7 +16,6 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&show_icons=true&theme=algolia)
 
-# Most Used Languages
 ### Languages and Tools
 
 <p align="center">
@@ -43,6 +42,12 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white "/> 
 <img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white "/> 
 </p>
+
+
+
+
+# Most Used Languages
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
