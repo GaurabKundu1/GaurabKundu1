@@ -35,8 +35,8 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 <img alt="Ppt" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "/> 
 <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white "/> 
 <img alt="Spreadsheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white "/> 
-<img alt="RStudio" src="https://img.shields.io/badge/rstudio-143?style=for-the-badge&logo=rstudio&logoColor=black&color=blue&labelColor=white "/> 
-<img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white "/> 
+<img alt="RStudio" src="https://img.shields.io/badge/rstudio-143?style=for-the-badge&logo=rstudio&logoColor=blue&color=blue&labelColor=white "/> 
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-66595C?style=for-the-badge&logo=Tableau&logoColor=white "/> 
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "/> 
 <img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white "/> 
 </p>
