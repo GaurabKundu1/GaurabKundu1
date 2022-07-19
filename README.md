@@ -73,6 +73,11 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
+    
+   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+   
+   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gaurab-kundu-020803" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gaurab-kundu-020803?trk=profile-badge">Gaurab Kundu</a></div>
+              
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
