@@ -50,7 +50,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-[![Gaurab's github activity graph](https://activity-graph.herokuapp.com/graph?username=GaurabKundu1&theme=react-dark)](https://github.com/GaurabKundu1/github-readme-activity-graph)
+[![Gaurab's github activity graph]([https://activity-graph.herokuapp.com/graph?username=GaurabKundu1&theme=react-dark)](https://github.com/GaurabKundu1/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1)](https://github.com/GaurabKundu1/github-readme-activity-graph))
 
 
 
