@@ -15,7 +15,8 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 # My GitHub Stats 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&theme=algolia)](https://github.com/GaurabKundu1/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaurabKundu1&theme=algolia)]
+
 # Languages and Tools
 
 <p align="center">
