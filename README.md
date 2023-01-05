@@ -64,7 +64,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 <a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
 </p>
 
-# :trophy: Git profile Trophies
+# :trophy: Git Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GaurabKundu1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
