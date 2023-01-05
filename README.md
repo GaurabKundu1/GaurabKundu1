@@ -49,7 +49,9 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 # Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurabKundu1&langs_count=10&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" width="400px" height="240px"/> <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" />
+<a href="https://github.com/GaurabKundu1/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurabKundu1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="GaurabKundu1"/>
+</a>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -73,14 +75,6 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
         <p>Loading</p>
     </div>
     
-    
-<div align="center">
-
-<a href="https://github.com/GaurabKundu1/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurabKundu1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="GaurabKundu1"/>
-
-</a>
-</div>
 
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
