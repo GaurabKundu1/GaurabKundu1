@@ -53,6 +53,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurabKundu1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="GaurabKundu1"/>
  </a>
 
+# My Contribution Graph
 [![Gaurab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark)](https://github.com/GaurabKundu1/github-readme-activity-graph)
 
 <!-- Social -->
