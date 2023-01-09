@@ -73,7 +73,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
         <p>Loading</p>
     </div>
     
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
