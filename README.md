@@ -62,7 +62,8 @@
 </p>
 
 # My Contribution Graph
-[![Gaurab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark)](https://github.com/GaurabKundu1/github-readme-activity-graph)
+
+[![Gaurab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark)]
 
 <!-- Social -->
 
