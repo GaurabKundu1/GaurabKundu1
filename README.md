@@ -66,6 +66,7 @@
 <a href="https://github.com/GaurabKundu1/">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark"
 </a>
+
 <!-- Social -->
 
 <h1 align="center"> How to Reach Me </h1>
@@ -74,7 +75,6 @@
     </td>
     <td align="center">
       <h3>Connect with me:</h3>
-      <table>
         <tr>
           <td align="left" width="300">
 <p align="center">
