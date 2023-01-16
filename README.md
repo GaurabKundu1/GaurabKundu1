@@ -25,7 +25,7 @@ Looking forward to learn new skills and get internships or jobs in the field of 
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=tokyonight" />
   
 </p>
 
