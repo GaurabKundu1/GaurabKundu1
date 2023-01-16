@@ -5,7 +5,31 @@
 
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
 
-<p align="center"> I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artificial Intelligence || Cloud Computing || Enthusiast and always willing to learn and work across new technologies and domains. </p> 
+<p align="center"> I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artificial Intelligence || Cloud Computing || Enthusiast and always willing to learn and work across new technologies and domains.</p> 
+
+<p align="center">
+	I am a Data Science Enthusiast 'torturing data until it confesses' actionable insights! Equipped and skilled with Data Analysis & Visualization, Machine Learning, Python, R, Excel and SQL, to put forward solution to the stated business problems in an articulated manner, be it Supervised or Unsupervised.
+
+Continuous up-scaling and upgrading my skill is what keep me self-motivated and consistent toward my goal to expand my expertise in the field of Data Science. 
+
+Clarity of thoughts and ability to articulate, provide me an edge over others and acts as transferable assets in different job roles.
+
+I am a 2nd year BTech Computer Science Engineering student specialized in Data Science, Living in Kolkata, India. 
+
+A passionate self-learner who completed the following online courses, Specialization & Professional Certificates from Coursera: 
+
+- IBM Data Science Professional Certificate,
+- IBM Data Analyst Professional Certificate, 
+- Python for Everybody Specialization by UNIVERSITY OF MICHIGAN 
+- Data Science Math Skills by DUKE UNIVERSITY
+- Inferential Statistics by DUKE UNIVERSITY
+
+I am a Self-taught Python and C Programmer. 
+
+I Love to listen music, watching movies and Browse the Internet in free time.
+
+Looking forward to learn new skills and get internships or jobs in the field of Data Science, Machine Learning and Artificial Intelligence.
+</p>
 
 
 
