@@ -101,7 +101,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GaurabKundu1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/GaurabKundu1/">
-<img src="[https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark](https://github-profile-trophy.vercel.app/?username=GaurabKundu1&theme=algolia)"
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark"
 </a>
 
 <div align=center>
