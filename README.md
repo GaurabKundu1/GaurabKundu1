@@ -30,11 +30,6 @@ Looking forward to learn new skills and get internships or jobs in the field of 
 </p>
 
 <h1 align="center"> My GitHub Stats </h1> 
-
-
-<p align="center">
-<a href="https://app.dooboo.io/GaurabKundu1"><img src="https://server.dooboo.io/github-stats/GaurabKundu1" width="48%"/></a>
-</p>
 	
 <p align="center">
 <a href="https://github.com/GaurabKundu1/">
