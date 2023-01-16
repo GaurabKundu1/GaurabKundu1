@@ -6,14 +6,17 @@
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
 
 <p align="center">
-	I am a Data Science Enthusiast 'torturing data until it confesses' actionable insights! Equipped and skilled with Data Analysis & Visualization, Machine Learning, Python, R, Excel and SQL, to put forward solution to the stated business problems in an articulated manner, be it Supervised or Unsupervised.
-
+	I am a Data Science Enthusiast 'torturing data until it confesses' actionable insights! Equipped and skilled with Data Analysis & Visualization, Machine Learning, Python, R, Excel and SQL, to put forward solution to the stated business problems in an articulated manner, be it Supervised or Unsupervised.</p>
+<p align="center">
 Continuous up-scaling and upgrading my skill is what keep me self-motivated and consistent toward my goal to expand my expertise in the field of Data Science. 
-
+</p>
+<p align="center">
 Clarity of thoughts and ability to articulate, provide me an edge over others and acts as transferable assets in different job roles.
-
+</p>
+<p align="center">
 I am a 2nd year BTech Computer Science Engineering student specialized in Data Science, Living in Kolkata, India. 
-
+</p>
+<p align="center">
 Looking forward to learn new skills and get internships or jobs in the field of Data Science, Machine Learning and Artificial Intelligence.
 </p>
 
