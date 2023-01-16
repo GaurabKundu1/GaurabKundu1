@@ -15,7 +15,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=algolia" />
   
 </p>
 
