@@ -122,7 +122,7 @@ Looking forward to learn new skills and get internships or jobs in the field of 
         <p>Loading</p>
     </div>
     
-
+<a href="https://app.dooboo.io/GaurabKundu1"><img src="https://server.dooboo.io/github-stats/GaurabKundu1" width="600" /></a>
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
