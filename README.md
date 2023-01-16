@@ -31,6 +31,11 @@ Looking forward to learn new skills and get internships or jobs in the field of 
 
 <h1 align="center"> My GitHub Stats </h1> 
 
+
+<p align="center">
+<a href="https://app.dooboo.io/GaurabKundu1"><img src="https://server.dooboo.io/github-stats/GaurabKundu1" width="600" /></a>
+</p>
+	
 <p align="center">
 <a href="https://github.com/GaurabKundu1/">
   <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="48%"/>
@@ -122,7 +127,6 @@ Looking forward to learn new skills and get internships or jobs in the field of 
         <p>Loading</p>
     </div>
     
-<a href="https://app.dooboo.io/GaurabKundu1"><img src="https://server.dooboo.io/github-stats/GaurabKundu1" width="600" /></a>
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
