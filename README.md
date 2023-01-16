@@ -10,7 +10,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 
 
-# My Current Streak
+<h1 align="center"> My Current Streak </h1>
 
 <p align="center">
 	
