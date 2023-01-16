@@ -70,11 +70,6 @@
 
 <h1 align="center"> How to Reach Me </h1>
 
-<p align='left'> 
-<a href = "https://www.linkedin.com/in/gaurab-kundu/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
-</p>
-
 <table align="center" width="100%">
     </td>
     <td align="center">
