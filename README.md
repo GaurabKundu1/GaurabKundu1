@@ -13,16 +13,17 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=tokyonight" />
   
 </p>
 
 <h1 align="center"> My GitHub Stats </h1> 
 
-
+<p align="center">
 <a href="https://github.com/GaurabKundu1/">
   <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="48%"/>
 </a>
+</p>
 
 # Languages and Tools
 
