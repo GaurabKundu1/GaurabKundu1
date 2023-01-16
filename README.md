@@ -2,7 +2,7 @@
   <img width="1000px" height="200px" src="https://user-images.githubusercontent.com/86102231/212632670-4e919048-7e18-4e8a-b4a5-f37bb4d8c0cf.png" alt="hello">
 </p>
 
-<img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "390"> 
+<img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "1000px"> 
 
 
 # Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  
