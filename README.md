@@ -63,8 +63,9 @@
 
 # My Contribution Graph
 
-[![Gaurab's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark)]
-
+<a href="https://github.com/GaurabKundu1/">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark"
+</a>
 <!-- Social -->
 
 # How to Reach Me
