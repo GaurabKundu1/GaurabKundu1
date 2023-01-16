@@ -4,7 +4,7 @@
 
 
 
-<h1> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
+<h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
 
 I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artificial Intelligence || Cloud Computing || Enthusiast and always willing to learn and work across new technologies and domains. 
 
