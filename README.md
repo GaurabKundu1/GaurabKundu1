@@ -99,10 +99,11 @@
 
 <h1 align="center"> :trophy: Git Profile Trophies </h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GaurabKundu1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
 <a href="https://github.com/GaurabKundu1/">
 <img src="https://github-profile-trophy.vercel.app/?username=GaurabKundu1&theme=algolia">
 </a>
+</p>
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
