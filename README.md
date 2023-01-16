@@ -101,9 +101,7 @@
           </td>  
 	</tr>
       </table>
-    </td>
-  </tr>
-</table>
+    
 
 # :trophy: Git Profile Trophies
 
