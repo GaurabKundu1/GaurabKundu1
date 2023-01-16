@@ -12,9 +12,12 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
 
 
 # My Current Streak
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=algolia) <img align="right" alt="GIF" height="525" width="300" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
 
-<br />
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=tokyonight" />
+  
+</p>
 
 # My GitHub Stats 
 
@@ -77,11 +80,7 @@ I’m Gaurab kundu || Machine Learning || Data Science || Deep Learning || Artif
         <p>Loading</p>
     </div>
     
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaurabKundu1&theme=tokyonight" />
-  
-</p>
+
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
