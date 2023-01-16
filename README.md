@@ -79,14 +79,14 @@
         <tr>
           <td align="left" width="300">
 <p align="center">
-            <a href="https://twitter.com/starlightknown">
+            <a href="https://twitter.com/GaurabKundu6">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
             </a>
 </p>
           </td>
 	  <td align="left" width="300">
 <p align="center">
-            <a href="https://www.linkedin.com/in/karuna-tata63/">
+            <a href="https://www.linkedin.com/in/gaurab-kundu/">
               <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
 </p>
