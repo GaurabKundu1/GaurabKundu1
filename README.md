@@ -33,7 +33,7 @@ Looking forward to learn new skills and get internships or jobs in the field of 
 	
 <p align="center">
 <a href="https://github.com/GaurabKundu1/">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GaurabKundu1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia" width="48%"/>
 </a>
 </p>
 
