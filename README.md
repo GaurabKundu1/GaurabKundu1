@@ -61,7 +61,7 @@
 </a>
 </p>
 
-# My Contribution Graph
+<h1 align="center"> My Contribution Graph </h1>
 
 <a href="https://github.com/GaurabKundu1/">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark"
