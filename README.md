@@ -33,7 +33,7 @@ Looking forward to learn new skills and get internships or jobs in the field of 
 
 
 <p align="center">
-<a href="https://app.dooboo.io/GaurabKundu1"><img src="https://server.dooboo.io/github-stats/GaurabKundu1" width="600" /></a>
+<a href="https://app.dooboo.io/GaurabKundu1"><img src="https://server.dooboo.io/github-stats/GaurabKundu1" width="48%" /></a>
 </p>
 	
 <p align="center">
