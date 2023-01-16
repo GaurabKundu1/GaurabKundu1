@@ -83,14 +83,14 @@
         <tr>
           <td align="left" width="300">
 <p align="center">
-            <a href="https://twitter.com/starlightknown">
+            <a href="https://twitter.com/GaurabKundu6">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
             </a>
 </p>
           </td>
 	  <td align="left" width="300">
 <p align="center">
-            <a href="https://www.linkedin.com/in/karuna-tata63/">
+            <a href="https://www.linkedin.com/in/gaurab-kundu/">
               <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
 </p>
@@ -98,19 +98,6 @@
         </tr>
 	<tr>
           <td align="left" width="300">
-<p align="center">
-            <a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA">
-              <img width="30%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
-            </a>
-</p>
-          </td>
-	  <td align="left" width="300">
-<p align="center">
-            <a href="https://dev.to/starlightknown">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Karuna Tata's DEV Community Profile" width="30%">
-</a>
-      
-</p>
           </td>  
 	</tr>
       </table>
