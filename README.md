@@ -118,10 +118,7 @@ Looking forward to learn new skills and get internships or jobs in the field of 
 </a>
 </p>
 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
+
     
 <!---
 GaurabKundu1/GaurabKundu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
