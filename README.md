@@ -5,18 +5,18 @@
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
 
 <p align="center">
-	I am a Data Science Enthusiast 'torturing data until it confesses' actionable insights! Equipped and skilled with Data Analysis & Visualization, Machine Learning, Python, R, Excel and SQL, to put forward solution to the stated business problems in an articulated manner, be it Supervised or Unsupervised.</p>
+	As a passionate Data Science enthusiast, I am driven to uncover insights and solutions that can help businesses make informed decisions. With a strong foundation in Data Analysis & Visualization, Machine Learning, Python, R, Excel, and SQL, I have the skills and expertise to tackle complex problems and drive results.</p>
 <p align="center">
-Continuous up-scaling and upgrading my skill is what keep me self-motivated and consistent toward my goal to expand my expertise in the field of Data Science. 
+I am currently a 2nd year BTech Computer Science Engineering student, specializing in Data Science, based in Kolkata, India. I am always eager to learn and continuously upskill myself, which has led me to complete various online courses, specializations, and professional certificates from prestigious institutions such as IBM, DeepLearning.AI, the University of Michigan, Stanford University, Johns Hopkins University, and Duke University. 
 </p>
 <p align="center">
-Clarity of thoughts and ability to articulate, provide me an edge over others and acts as transferable assets in different job roles.
+My love for programming has led me to be a self-taught Python and R programmer, and I am constantly seeking opportunities to expand my knowledge and gain experience in the field of Data Science, Machine Learning, and Artificial Intelligence.
 </p>
 <p align="center">
-I am a 2nd year BTech Computer Science Engineering student specialized in Data Science, Living in Kolkata, India. 
+With my ability to articulate my thoughts and provide clear insights, I believe I have transferable assets that can be valuable in different job roles. In my free time, I love listening to music, watching movies, and browsing the internet for inspiration.
 </p>
 <p align="center">
-Looking forward to learn new skills and get internships or jobs in the field of Data Science, Machine Learning and Artificial Intelligence.
+I am eager to explore internship and job opportunities that will allow me to apply my skills and knowledge to real-world problems, and I look forward to connecting with like-minded individuals and organizations in the industry.
 </p>
 
 
