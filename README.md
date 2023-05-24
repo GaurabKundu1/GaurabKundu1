@@ -118,6 +118,8 @@ I am eager to explore internship and job opportunities that will allow me to app
 </a>
 </p>
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=	31b3zzgqyrqhkublbjmcjxojmjdm)](https://open.spotify.com/user/	31b3zzgqyrqhkublbjmcjxojmjdm)
+
 
     
 <!---
