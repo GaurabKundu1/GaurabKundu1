@@ -110,6 +110,8 @@ I am eager to explore internship and job opportunities that will allow me to app
 </a>
 </p>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 
