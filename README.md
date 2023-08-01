@@ -3,8 +3,6 @@
   <img width="1000px" height="200px" src="https://user-images.githubusercontent.com/86102231/212647044-9450f06b-2eb6-4633-b1fb-4d02112a6cb6.png" alt="hello">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GaurabKundu1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
 
 <p align="center">
