@@ -5,18 +5,18 @@
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
 
 <p align="center">
-	As a passionate Data Science enthusiast, I am driven to uncover insights and solutions that can help businesses make informed decisions. With a strong foundation in Data Analysis & Visualization, Machine Learning, Python, R, Excel, and SQL, I have the skills and expertise to tackle complex problems and drive results.</p>
+	I'm Gaurab Kundu, a passionate Data Science enthusiast based in Kolkata, India. As a 3rd-year BTech Computer Science Engineering student specializing in Data Science, I possess a solid foundation in Data Analytics, Data Visualization, Machine Learning, Deep Learning, Python, R, Java, Excel, and SQL.</p>
 <p align="center">
-I am currently a 2nd year BTech Computer Science Engineering student, specializing in Data Science, based in Kolkata, India. I am always eager to learn and continuously upskill myself, which has led me to complete various online courses, specializations, and professional certificates from prestigious institutions such as IBM, DeepLearning.AI, the University of Michigan, Stanford University, Johns Hopkins University, and Duke University. 
+With a dedication to continuous learning, I've completed various online courses and professional certificates from esteemed institutions like IBM, DeepLearning.AI, and others. As a self-taught Python and R programmer, I thrive on exploring opportunities to gain practical experience in Data Science, Machine Learning, and Artificial Intelligence.
 </p>
 <p align="center">
-My love for programming has led me to be a self-taught Python and R programmer, and I am constantly seeking opportunities to expand my knowledge and gain experience in the field of Data Science, Machine Learning, and Artificial Intelligence.
+I believe in constant upskilling and possess the ability to provide clear insights, making me valuable in different job roles. My true passion lies in tackling complex problems using data-driven approaches.
 </p>
 <p align="center">
-With my ability to articulate my thoughts and provide clear insights, I believe I have transferable assets that can be valuable in different job roles. In my free time, I love listening to music, watching movies, and browsing the internet for inspiration.
+I'm eager to explore internship and job opportunities where I can apply my skills to real-world challenges, contribute to meaningful projects, and continue my growth in the fascinating world of Data Science.
 </p>
 <p align="center">
-I am eager to explore internship and job opportunities that will allow me to apply my skills and knowledge to real-world problems, and I look forward to connecting with like-minded individuals and organizations in the industry.
+If you're looking for a proactive, results-oriented individual with a commitment to excellence, I would love to connect with you! Let's explore how I can contribute to your organization's success and foster my personal and professional growth in the process.
 </p>
 
 
