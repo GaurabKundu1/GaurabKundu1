@@ -72,13 +72,6 @@ I am eager to explore internship and job opportunities that will allow me to app
 </a>
 </p>
 
-<h1 align="center"> My Contribution Graph </h1>
-
-<p align="center">
-<a href="https://github.com/GaurabKundu1/">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurabKundu1&theme=react-dark">
-</a>
-</p>
 <!-- Social -->
 
 <h1 align="center"> How to Reach Me </h1>
