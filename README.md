@@ -3,6 +3,14 @@
   <img width="1000px" height="200px" src="https://user-images.githubusercontent.com/86102231/212647044-9450f06b-2eb6-4633-b1fb-4d02112a6cb6.png" alt="hello">
 </p>
 
+<p align="center">
+  <img width="1000px" height="200px" src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/e8297214-8bbd-48d9-9d8b-2341f504c7f7" alt="hello">
+</p>
+
+<p align="center">
+  <img width="1000px" height="200px" src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/937a07ca-5f5d-47b5-bda6-8f979c481315" alt="hello">
+</p>
+
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
 
 <p align="center">
