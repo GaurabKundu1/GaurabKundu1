@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img width="1000px" height="200px" src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/e8297214-8bbd-48d9-9d8b-2341f504c7f7" alt="hello">
+  <img src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/e8297214-8bbd-48d9-9d8b-2341f504c7f7" alt="hello">
 </p>
 
 <p align="center">
-  <img width="1000px" height="200px" src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/937a07ca-5f5d-47b5-bda6-8f979c481315" alt="hello">
+  <img src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/937a07ca-5f5d-47b5-bda6-8f979c481315" alt="hello">
 </p>
 
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
