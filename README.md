@@ -38,26 +38,6 @@ If you're looking for a proactive, results-oriented individual with a commitment
 </a>
 </p>
 
-
-<h1 align="center"> Programming Languages </h1>
-
-<div class="center">
-
-<a href="https://www.python.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70px" width="70px"/></a>
-
-<a href="https://www.r-project.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="70px" width="70px"/></a>
-
-<a href="https://sqlzoo.net/wiki/SQL_Tutorial"> <img src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/3e8b22c5-8558-41d4-a89f-302ca9321593" height="65px" width="50px"/></a>
-
-<a href="https://www.java.com/en/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70px" width="70px"/></a>
-
-<a href="hhttps://www.markdowntutorial.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="70px" width="70px"/></a>
-
-<a href="https://gcc.gnu.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70px" width="70px"/></a>
-        
-</div>
-
-
 <h1 align="center"> Most Used Languages </h1>
 
 <p align="center">
