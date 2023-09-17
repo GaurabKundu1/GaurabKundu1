@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/GaurabKundu1/Breast-Cancer-Survival-Prediction/assets/86102231/937a07ca-5f5d-47b5-bda6-8f979c481315" alt="hello">
+  <img src="https://github.com/GaurabKundu1/Python-for-Everybody/assets/86102231/a08926b0-bf76-4827-9bce-d84a1eca76a1" alt="hello">
 </p>
 
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
