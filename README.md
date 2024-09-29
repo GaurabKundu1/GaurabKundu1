@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/GaurabKundu1/Python-for-Everybody/assets/86102231/a08926b0-bf76-4827-9bce-d84a1eca76a1" alt="hello">
+  <img src="https://github.com/user-attachments/assets/c31e22f0-6496-4a20-b8aa-2e1771f64322" alt="hello">
 </p>
 
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1> 
