@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c31e22f0-6496-4a20-b8aa-2e1771f64322" alt="hello">
+</p>
+
 <!-- Header with 'Hello There' gif and introduction -->
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1>
 
