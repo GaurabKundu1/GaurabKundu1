@@ -37,103 +37,78 @@ If you're looking for a proactive, results-oriented individual with a commitment
     <a href="https://www.tensorflow.org/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/65fb4f8a-025d-4331-9271-71e9db78449d" height="70px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://keras.io/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/47a91d3d-e321-44be-b022-03d6232edcf2" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://pandas.pydata.org/"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="70px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://numpy.org/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/3cb4bf9b-1fac-43f0-8f34-0aaf9ae35988" height="65px" width="50px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://scipy.org/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/602e154c-3f9a-48c5-b8e1-40eccd5a654f" height="45px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://scikit-learn.org/stable/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/ae4c96bd-11a8-4f00-bf12-9409b396b505" height="50px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/30efac18-72cf-4a58-aad2-d7def185d1cc" height="30px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://seaborn.pydata.org/"> 
         <img src="https://github.com/GaurabKundu1/GaurabKundu/assets/86102231/99b8abd2-99eb-4173-9e3a-3470240cbc4a" height="50px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://plotly.com/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/25e5187c-5490-4fb7-aafd-13d4b5b12830" height="50px" width="100px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://pypi.org/project/beautifulsoup4/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/4be9c979-45e7-4854-b32e-4c60cf39adcc" height="80px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://www.djangoproject.com/"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/79603979-873b-4c6c-8228-d88a58d2551f" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://ggplot2.tidyverse.org/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/7d952a68-693c-4698-b0ad-6d2b5e7f857c" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://www.r-project.org/nosvn/pandoc/devtools.html"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/380e0834-5de4-40a8-96d1-5719affd881b" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://tidyr.tidyverse.org/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/7e3ee482-579d-4f10-bfbb-c3e5dc419fef" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://www.tidyverse.org/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/57958c75-39a8-44e9-9c89-5836f4b606c1" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://shiny.posit.co/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/6c1657e2-4100-4a14-962b-84b06d099441" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://lubridate.tidyverse.org/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/29ab367d-c2d5-4483-82f4-b75d9773be85" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://rmarkdown.rstudio.com/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/951b177b-5360-4532-8245-d6863701be5c" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://cran.r-project.org/web/packages/knitr/index.html"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/88bb7352-5167-4c38-9ac4-08067b05d88f" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://git-scm.com/"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="70px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://anaconda.org/"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://jupyter.org/"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="65px" width="65px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://posit.co/products/open-source/rstudio/"> 
         <img src="https://github.com/GaurabKundu1/Vrinda-Store-Data-Analysis/assets/86102231/c24b3a62-9d22-4671-82b8-0c22391ae619" height="60px" width="60px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://code.visualstudio.com/"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="70px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="70px" width="70px"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
