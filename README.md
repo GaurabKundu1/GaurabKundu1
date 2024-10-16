@@ -6,16 +6,16 @@
 <!-- Header with 'Hello There' gif and introduction -->
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> </h1>
 
-<!-- Introductory paragraph about who you are, your background, and expertise -->
+<!-- Introductory paragraph about who I am, my background, and expertise -->
 <p align="center">
 	I'm Gaurab Kundu, a passionate Data Science enthusiast based in Kolkata, India. As a final year BTech Computer Science Engineering student specializing in Data Science, I possess a solid foundation in Data Analytics, Data Visualization, Machine Learning, Deep Learning, Python, R, Excel, SQL, Tableau and Power BI.</p>
 
-<!-- Paragraph describing your learning journey and certifications -->
+<!-- Paragraph describing my learning journey and certifications -->
 <p align="center">
 With a dedication to continuous learning, I've completed various online courses and professional certificates from esteemed institutions like IBM, DeepLearning.AI, University of Michigan, Stanford University, University of California Davis, Johns Hopkins University, and Duke University. As a self-taught Python and R programmer, I thrive on exploring opportunities to gain practical experience in Data Science, Data Analytics, Business Analytics, Machine Learning, and Artificial Intelligence.
 </p>
 
-<!-- Emphasizing your passion and openness to job opportunities -->
+<!-- Emphasizing my passion and openness to job opportunities -->
 <p align="center">
 I believe in constant upskilling and possess the ability to provide clear insights, making me valuable in different job roles. My true passion lies in tackling complex problems using data-driven approaches.
 </p>
