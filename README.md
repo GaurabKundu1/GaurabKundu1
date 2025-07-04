@@ -8,7 +8,7 @@
 
 <!-- Introductory paragraph about who I am, my background, and expertise -->
 <p align="center">
-	I'm Gaurab Kundu, a passionate Data Science enthusiast based in Kolkata, India. As a final year BTech Computer Science Engineering student specializing in Data Science, I possess a solid foundation in Data Analytics, Data Visualization, Machine Learning, Deep Learning, Python, R, Excel, SQL, Tableau and Power BI.</p>
+	I'm Gaurab Kundu, a passionate Data Science enthusiast based in Kolkata, India. As a recent BTech Computer Science Engineering graduate specialized in Data Science, I possess a solid foundation in Data Analytics, Data Visualization, Machine Learning, Deep Learning, Python, R, Excel, SQL, Tableau and Power BI.</p>
 
 <!-- Paragraph describing my learning journey and certifications -->
 <p align="center">
