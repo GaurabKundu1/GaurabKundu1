@@ -8,26 +8,27 @@
 
 <!-- Introductory paragraph about who I am, my background, and expertise -->
 <p align="center">
-	I'm Gaurab Kundu, a passionate Data Science enthusiast based in Kolkata, India. As a recent BTech Computer Science Engineering graduate specialized in Data Science, I possess a solid foundation in Data Analytics, Data Visualization, Machine Learning, Deep Learning, Python, R, Excel, SQL, Tableau and Power BI.</p>
+I'm Gaurab Kundu, a Data Science enthusiast from Kolkata, India, and a recent B.Tech graduate in Computer Science & Engineering with a specialization in Data Science.
+</p>
 
 <!-- Paragraph describing my learning journey and certifications -->
 <p align="center">
-With a dedication to continuous learning, I've completed various online courses and professional certificates from esteemed institutions like IBM, DeepLearning.AI, University of Michigan, Stanford University, University of California Davis, Johns Hopkins University, and Duke University. As a self-taught Python and R programmer, I thrive on exploring opportunities to gain practical experience in Data Science, Data Analytics, Business Analytics, Machine Learning, and Artificial Intelligence.
+My toolkit includes Python, R, SQL, Excel, Tableau, and Power BI, with hands-on experience in Data Analytics, Machine Learning, Deep Learning, and Data Visualization. I’ve built this foundation through both academics and self-driven projects.
 </p>
 
 <!-- Emphasizing my passion and openness to job opportunities -->
 <p align="center">
-I believe in constant upskilling and possess the ability to provide clear insights, making me valuable in different job roles. My true passion lies in tackling complex problems using data-driven approaches.
+I’ve earned certifications from institutions like IBM, DeepLearning.AI, Stanford, Duke, University of Michigan, UC Davis, and Johns Hopkins, and I’m always learning something new. Whether it’s sharpening my skills in Python and R, or exploring new domains in AI, I enjoy digging into data to find patterns, build solutions, and tell clear, compelling stories.
 </p>
 
 <!-- Statement expressing eagerness for internships and job opportunities -->
 <p align="center">
-I'm eager to explore internship and job opportunities where I can apply my skills to real-world challenges, contribute to meaningful projects, and continue my growth in the fascinating world of Data Science.
+I’m actively seeking full-time opportunities in Data Science, Analytics, or Business Intelligence, where I can work on real-world challenges, contribute to impactful projects, and continue growing.
 </p>
 
 <!-- Encouraging connections for collaboration or job roles -->
 <p align="center">
-If you're looking for a proactive, results-oriented individual with a commitment to excellence, I would love to connect with you! Let's explore how I can contribute to your organization's success and foster my personal and professional growth in the process.
+If you're working on something exciting in the data space, let’s connect—I’d love to be part of it.
 </p>
 
 <!-- GitHub streak stats section -->
