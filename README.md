@@ -8,27 +8,39 @@
 
 <!-- Introductory paragraph about who I am, my background, and expertise -->
 <p align="center">
-I'm Gaurab Kundu, a Data Science enthusiast from Kolkata, India, and a recent B.Tech graduate in Computer Science & Engineering with a specialization in Data Science.
+I work at the intersection of data, business, and problem solving. With a B.Tech in Computer Science & Engineering and a specialization in Data Science, I focus on turning raw, complex data into insights that support better decisions across teams. My experience spans audit analytics, business analysis, and product-focused data work, giving me a balanced view of both technical depth and business impact.
 </p>
 
 <!-- Paragraph describing my learning journey and certifications -->
 <p align="center">
-My toolkit includes Python, R, SQL, Excel, Tableau, and Power BI, with hands-on experience in Data Analytics, Machine Learning, Deep Learning, and Data Visualization. I’ve built this foundation through both academics and self-driven projects.
-</p>
+n my current role in Digital Assurance & Transparency – Data Analytics at PwC, I work with large financial datasets, run data driven audit procedures, and build analytical outputs that help teams assess risk and validate business performance. Along the way, I’ve strengthened my skills in SQL, Python, Excel, Power BI, and Tableau, while learning to communicate findings clearly and work closely with cross-functional teams.</p>
 
 <!-- Emphasizing my passion and openness to job opportunities -->
 <p align="center">
-I’ve earned certifications from institutions like IBM, DeepLearning.AI, Stanford, Duke, University of Michigan, UC Davis, and Johns Hopkins, and I’m always learning something new. Whether it’s sharpening my skills in Python and R, or exploring new domains in AI, I enjoy digging into data to find patterns, build solutions, and tell clear, compelling stories.
+Outside of work, I’ve completed projects that cover sales analytics, customer behavior analysis, and predictive modeling ranging from identifying revenue-driving product segments to predicting Falcon 9 landing outcomes using machine learning. These projects sharpened my ability to structure messy data, build dashboards, and extract insights that move metrics.
 </p>
 
 <!-- Statement expressing eagerness for internships and job opportunities -->
 <p align="center">
-I’m actively seeking full-time opportunities in Data Science, Analytics, or Business Intelligence, where I can work on real-world challenges, contribute to impactful projects, and continue growing.
+Before PwC, I worked in an Agile Scrum team at CodeClouds IT Solutions, where I helped optimize web applications using Python and Django. That experience taught me how to gather requirements, respond to feedback, and deliver user-focused solutions efficiently.
 </p>
 
 <!-- Encouraging connections for collaboration or job roles -->
 <p align="center">
-If you're working on something exciting in the data space, let’s connect—I’d love to be part of it.
+I’ve also strengthened my foundation with industry-recognized certifications in data analytics, machine learning, SQL, and Python from IBM, Stanford, UC Davis, and DeepLearning.AI.
+</p>
+
+<p align="center">
+Skills at a glance:
+SQL · Python · Power BI · Tableau · Excel · Data Cleaning · KPI Dashboards · A/B Testing · Business Analysis · Agile · Documentation · ML & LLMs
+</p>
+
+<p align="center">
+I’m always open to opportunities in data analysis, business analysis, and product analytics roles where thoughtful problem solving, curiosity, and clear insights actually matter.
+</p>
+
+<p align="center">
+If you’d like to connect or discuss something meaningful in the data space, I’m always open to a conversation.
 </p>
 
 <!-- GitHub streak stats section -->
