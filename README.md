@@ -13,7 +13,7 @@ I work at the intersection of data, business, and problem solving. With a B.Tech
 
 <!-- Paragraph describing my learning journey and certifications -->
 <p align="center">
-n my current role in Digital Assurance & Transparency – Data Analytics at PwC, I work with large financial datasets, run data driven audit procedures, and build analytical outputs that help teams assess risk and validate business performance. Along the way, I’ve strengthened my skills in SQL, Python, Excel, Power BI, and Tableau, while learning to communicate findings clearly and work closely with cross-functional teams.</p>
+In my current role in Digital Assurance & Transparency – Data Analytics at PwC, I work with large financial datasets, run data driven audit procedures, and build analytical outputs that help teams assess risk and validate business performance. Along the way, I’ve strengthened my skills in SQL, Python, Excel, Power BI, and Tableau, while learning to communicate findings clearly and work closely with cross-functional teams.</p>
 
 <!-- Emphasizing my passion and openness to job opportunities -->
 <p align="center">
